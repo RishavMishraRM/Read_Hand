@@ -11,3 +11,4 @@ As the dataset has already given csv values for images, we don't need to do much
 
 - Seperate features(784 pixel columns) and output(result label)
 - Reshape the features
+- One Hot Encoding on result 
