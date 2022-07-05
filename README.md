@@ -8,3 +8,5 @@ The dataset format is patterned to match closely with the classic MNIST. Each tr
 <br>
 ## Data Preprocessing
 As the dataset has already given csv values for images, we don't need to do much preprocessing. If dataset of image was in raw format, we have to convert them in csv format arrays before doing any of the further operations. Still we perform following steps:
+
+- Seperate features(784 pixel columns) and output(result label)
