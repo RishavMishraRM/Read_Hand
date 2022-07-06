@@ -14,3 +14,5 @@ As the dataset has already given csv values for images, we don't need to do much
 - One Hot Encoding on result 
 
 ## Model
+
+We will use Keras to build the simple CNN(Convolutional Neural Network).
