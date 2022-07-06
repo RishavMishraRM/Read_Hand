@@ -19,3 +19,4 @@ We will use Keras to build the simple CNN(Convolutional Neural Network).
 There are total 7 layers in the CNN:
 
 1. 1st Convolutional Layer with `relu`
+2. 1st Max Pooling 
