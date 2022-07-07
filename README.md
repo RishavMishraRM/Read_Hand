@@ -25,3 +25,6 @@ There are total 7 layers in the CNN:
 5. Flattening
 6. First Full Layer with `relu`
 7. Output Layer with `sigmoid`
+
+
+## Technologies Used
