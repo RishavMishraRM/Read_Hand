@@ -27,4 +27,4 @@ There are total 7 layers in the CNN:
 7. Output Layer with `sigmoid`
 
 
-## Technologies Used
+## Technologies Used - ENABLE
