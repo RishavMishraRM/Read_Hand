@@ -23,3 +23,4 @@ There are total 7 layers in the CNN:
 3. 2nd Convolutional Layer with `relu`
 4. 2nd Max Pooling
 5. Flattening
+6. First Full Layer with `relu`
