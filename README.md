@@ -34,3 +34,4 @@ There are total 7 layers in the CNN:
 * Python 
 * Win32com
 * Image Processing
+* Image Recognition
