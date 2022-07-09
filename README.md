@@ -35,3 +35,4 @@ There are total 7 layers in the CNN:
 * Win32com
 * Image Processing
 * Image Recognition
+* Docx
