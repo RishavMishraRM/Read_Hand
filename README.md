@@ -28,3 +28,4 @@ There are total 7 layers in the CNN:
 
 
 ## Technologies Used 
+* Deep Learning
