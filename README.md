@@ -31,3 +31,4 @@ There are total 7 layers in the CNN:
 * Deep Learning
 * Speech Recognition
 * CNN-Keras
+* Python 
