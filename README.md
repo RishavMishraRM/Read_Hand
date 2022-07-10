@@ -38,4 +38,4 @@ There are total 7 layers in the CNN:
 * Docx
 
 ## Challenges
-The major challenge was to make this project light and not dependent on internet. So we had to use libraries which used minimum internet in order to carry out the task. 
+The major challenge was to make this project light and not dependent on internet. So we had to use libraries which used minimum internet in order to carry out the task.  We could not use any APIs as they'd require the use of internet. Secondly creating sign language transcripts was rather difficult because there wasn't any existing font for it and the ones which resembled closely weren't legible. 
