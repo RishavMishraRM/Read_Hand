@@ -39,4 +39,4 @@ There are total 7 layers in the CNN:
 
 ## Challenges
 The major challenge was to make this project light and not dependent on internet. So we had to use libraries which used minimum internet in order to carry out the task.  We could not use any APIs as they'd require the use of internet. Secondly creating sign language transcripts was rather difficult because there wasn't any existing font for it and the ones which resembled closely weren't legible. So we had to scout images which were clear and could be used and yet maintain uniformity. 
-So we had to scout images which were clear and could be used and yet maintain uniformity. The next challenge was the sign to text converter.
+So we had to scout images which were clear and could be used and yet maintain uniformity. The next challenge was the sign to text converter.We had to design a model what was fast and accurate to differentiate between words and spaces and we somehow did a decent job at it.
