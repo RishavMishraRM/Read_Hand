@@ -38,4 +38,4 @@ There are total 7 layers in the CNN:
 * Docx
 
 ## Challenges
-The major challenge was to make this project light and not dependent on internet. 
+The major challenge was to make this project light and not dependent on internet. So we had to use libraries which used minimum internet in order to carry out the task. 
