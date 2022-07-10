@@ -36,3 +36,5 @@ There are total 7 layers in the CNN:
 * Image Processing
 * Image Recognition
 * Docx
+
+## Challenges
