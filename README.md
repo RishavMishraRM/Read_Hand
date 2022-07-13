@@ -45,3 +45,6 @@ So we had to scout images which were clear and could be used and yet maintain un
 * It converts ASL SIGN hand gestures to English TEXT dynamically.
 * It converts Speech to Braille script proactively.
 * It converts English TEXT to SIGN hand gestures.
+
+
+## Results
