@@ -43,5 +43,5 @@ So we had to scout images which were clear and could be used and yet maintain un
 
 ## Key Features
 * It converts ASL SIGN hand gestures to English TEXT dynamically.
-* ENABLE converts Speech to Braille script proactively.
+* It converts Speech to Braille script proactively.
 * ENABLE converts English TEXT to SIGN hand gestures.
