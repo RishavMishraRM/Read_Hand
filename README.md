@@ -42,6 +42,6 @@ The major challenge was to make this project light and not dependent on internet
 So we had to scout images which were clear and could be used and yet maintain uniformity. The next challenge was the sign to text converter.We had to design a model what was fast and accurate to differentiate between words and spaces and we somehow did a decent job at it. Since it's already a challenge to create a level playing ground for those who are differently abled, we believe we did give a great start to the initiative to bring about some attention towards this as this might be the new normal for a while now.
 
 ## Key Features
-* ENABLE converts ASL SIGN hand gestures to English TEXT dynamically.
+* It converts ASL SIGN hand gestures to English TEXT dynamically.
 * ENABLE converts Speech to Braille script proactively.
 * ENABLE converts English TEXT to SIGN hand gestures.
