@@ -48,3 +48,4 @@ So we had to scout images which were clear and could be used and yet maintain un
 
 
 ## Results
+- Training Set Accuracy: `96.06 %`
